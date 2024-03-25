@@ -7,5 +7,5 @@ function longest_Stirng(arr) {
     }
     return max;
 }
-let arr = ['nam', 'ki', 'af']
-console.log(longest_Stirng(arr));
+let arr = ['BINH', 'HUNG', 'PHUOC', 'CAO', 'KHANH'] 
+console.log(longest_Stirng(arr);
